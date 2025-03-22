@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/thetelugucoder.jpg" width="300" height="150">
+  <img src="images/thetelugucoder.JPG" width="300" height="150">
 </p>
 
 <p align="center">
